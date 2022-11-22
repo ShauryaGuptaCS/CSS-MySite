@@ -55,13 +55,13 @@ p{
 .bottom-cloud
 {
   position:absolute;
-  left:350px;
+  left:300px;
   bottom:410px;
 }
 
 .top-cloud
 {
   position:absolute;
-  right:350px;
+  right:300px;
   top:50px;
 }
