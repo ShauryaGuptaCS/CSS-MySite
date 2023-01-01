@@ -1,0 +1,7 @@
+body{
+  background-color: #ffffff url("mountain.png") no-repeat right top ;
+  background-image: url("mountain.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  /* background-attachment:fixed; */
+}
